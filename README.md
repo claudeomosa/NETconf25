@@ -206,7 +206,11 @@ This demo project is provided as educational content for .NET Conf 2025.
 ---
 
 **Prepared by**: Claude Omosa
+
 **Event**: .NET Conf 2025
+
 **Location**: Microsoft ADC Nairobi, Kenya
+
 **Date**: Novemeber 29th 2025
+
 **Topic**: Native AOT in .NET
