@@ -19,8 +19,6 @@ NETconf25/
 ├── QuoteApi/                   # Single Quote API project
 │   ├── Program.cs              # API implementation
 │   └── QuoteApi.csproj         # Project file (Native AOT disabled by default)
-├── demo-script.sh              # Automated comparison script
-├── test-api.sh                 # Quick API testing script
 └── README.md                   # This file
 ```
 
